@@ -1,4 +1,4 @@
-﻿altair                      
+altair                      
 attrs                       
 beautifulsoup4              
 blinker                     
@@ -74,6 +74,6 @@ typing_extensions
 tzdata                     
 urllib3                    
 validators                  
-watchdog        
+watchdog                   
 statsmodels
 scipy
